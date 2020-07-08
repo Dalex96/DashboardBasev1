@@ -1,6 +1,6 @@
 # dashboard-base
 
-> este dashboard esta creado para facilitar la administracion de los futuros proyectos que tenga que hacer yo Daniel Cabrera ya sea para
+> Este dashboard esta creado para facilitar la administracion de los futuros proyectos que tenga que hacer yo Daniel Cabrera
 
 ## Build Setup
 
